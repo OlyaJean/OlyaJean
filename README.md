@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OlyaJean
-- 👀 I’m interested in becoming a Front End Developer.
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in becoming a softwear engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 olga_lavida@yahoo.com
 
